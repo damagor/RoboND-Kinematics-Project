@@ -1,5 +1,6 @@
 # Robotic arm - Pick & Place project
 
+testing
 Make sure you are using robo-nd VM or have Ubuntu+ROS installed locally.
 
 ### One time Gazebo setup step:
